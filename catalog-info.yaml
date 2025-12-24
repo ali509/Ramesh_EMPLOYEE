@@ -3,7 +3,8 @@ kind: Component
 metadata:
   name: Ramesh_EMPLOYEE
   annotations:
-    backstage.io/techdocs-ref: value
+    github.com/project-slug: ali509/Ramesh_EMPLOYEE
 spec:
   type: other
+  lifecycle: unknown
   owner: ali509
